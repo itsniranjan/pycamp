@@ -1,1 +1,8 @@
-Uses clases and objects to determine whether a student can enroll in a college hostel or not depending upon various factors
+# pycamp-basic-lessons
+
+ - strings
+ - python basics - (I/O, conditionals, loops, lists, dicts)
+ - functions
+ - classes
+ - error handling
+ - decorators
