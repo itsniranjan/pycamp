@@ -30,7 +30,7 @@ lst = [1, 2, 3, 4, 5]
 #     print(i**2)
 
 # tuple
-tup = (1, 2, 3, 4, 5)  # any type of data can be stored in tuple
+tup = (1, 2, 3, 4, 5)  # immutable
 # set
 set = {1, 2, 3, 4, 5}  # no duplicates, no order
 
